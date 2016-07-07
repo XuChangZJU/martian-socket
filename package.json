@@ -2,7 +2,7 @@
   "name": "martian-socket",
   "version": "1.0.0",
   "description": "socket layer of martian",
-  "main": "src\\socket.js",
+  "main": "socket.js",
   "files": [
     "socket.js"
   ],
